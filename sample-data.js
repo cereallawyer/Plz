@@ -1,0 +1,1 @@
+const sampleAnimals = [{ name: 'Daisy', birthWeight: 35 }];

@@ -1,0 +1,1 @@
+console.log('HerdMate v1.0 app logic loaded');
